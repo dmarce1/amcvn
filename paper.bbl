@@ -1,0 +1,58 @@
+\begin{thebibliography}{15}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Bryan} {et~al.}(1995){Bryan}, {Norman}, {Stone}, {Cen}, \&
+  {Ostriker}}]{BNSO1995}
+{Bryan}, G.~L., {Norman}, M.~L., {Stone}, J.~M., {Cen}, R., \& {Ostriker},
+  J.~P. 1995, Computer Physics Communications, 89, 149
+
+\bibitem[{{Byerly} {et~al.}(2014){Byerly}, {Adelstein-Lelbach}, {Tohline}, \&
+  {Marcello}}]{BATM2014}
+{Byerly}, Z.~D., {Adelstein-Lelbach}, B., {Tohline}, J.~E., \& {Marcello},
+  D.~M. 2014, Under Review by \apjs
+
+\bibitem[{{Colella} \& {Woodward}(1984)}]{CW1984}
+{Colella}, P., \& {Woodward}, P.~R. 1984, Journal of Computational Physics, 54,
+  174
+
+\bibitem[{Dan {et~al.}(2011)Dan, Rosswog, Guillochon, \&
+  Ramirez-Ruiz}]{DRGR2011}
+Dan, M., Rosswog, S., Guillochon, J., \& Ramirez-Ruiz, E. 2011, The
+  Astrophysical Journal, 737, 89
+
+\bibitem[{{Dehnen}(2000)}]{D2000}
+{Dehnen}, W. 2000, \apjl, 536, L39
+
+\bibitem[{Despres \& Labourasse(2015)}]{DL2015}
+Despres, B., \& Labourasse, E. 2015, Journal of Computational Physics, 290, 28
+
+\bibitem[{{Even} \& {Tohline}(2009)}]{ET2009}
+{Even}, W., \& {Tohline}, J.~E. 2009, \apjs, 184, 248
+
+\bibitem[{Greengard \& Rokhlin(1997)}]{GR1997}
+Greengard, L., \& Rokhlin, V. 1997, Journal of Computational Physics, 135, 280
+
+\bibitem[{{Kurganov} \& {Tadmor}(2000)}]{KT2000}
+{Kurganov}, A., \& {Tadmor}, E. 2000, Journal of Computational Physics, 160,
+  241
+
+\bibitem[{{Marcello} \& {Tohline}(2012)}]{MT2012}
+{Marcello}, D.~C., \& {Tohline}, J.~E. 2012, \apjs, 199, 35
+
+\bibitem[{{Marsh} {et~al.}(2004){Marsh}, {Nelemans}, \& {Steeghs}}]{MNS2004}
+{Marsh}, T.~R., {Nelemans}, G., \& {Steeghs}, D. 2004, \mnras, 350, 113
+
+\bibitem[{{Motl} {et~al.}(2002){Motl}, {Tohline}, \& {Frank}}]{MTF2002}
+{Motl}, P.~M., {Tohline}, J.~E., \& {Frank}, J. 2002, \apjs, 138, 121
+
+\bibitem[{{Peters}(1964)}]{P1964}
+{Peters}, P.~C. 1964, Physical Review, 136, 1224
+
+\bibitem[{{Segretain} {et~al.}(1997){Segretain}, {Chabrier}, \&
+  {Mochkovitch}}]{SCM1997}
+{Segretain}, L., {Chabrier}, G., \& {Mochkovitch}, R. 1997, \apj, 481, 355
+
+\bibitem[{{Shu} \& {Osher}(1988)}]{SO1988}
+{Shu}, C., \& {Osher}, S. 1988, Journal of Computational Physics, 77, 439
+
+\end{thebibliography}
